@@ -3,7 +3,7 @@
 This project was created by [Tafsir Uddin](https://www.facebook.com/profile.php?id=100008669771700).
 
 My website name is
-# 24Hour Rider
+# Barsalona player selection
 
 Runs the website in the live :
 ### `Route is not work properly while I deploying in firebase`
