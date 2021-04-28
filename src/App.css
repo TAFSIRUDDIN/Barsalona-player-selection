@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  width: 1350px;
+  margin: 0 auto;
+}
+.player-card-body{
+  background-color: antiquewhite;
+  padding-bottom: 30px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
