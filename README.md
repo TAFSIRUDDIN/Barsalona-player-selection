@@ -10,6 +10,20 @@ Runs the website in the live :
 Open [https://gracious-johnson-9e8efe.netlify.app](https://gracious-johnson-9e8efe.netlify.app) to view it in the browser.
 
 
+### FEATURES
+
+Here you select a ride . There are four types of ride Bike, Car, Bus and Train.
+
+You also select the best rider.
+
+1. This is the basic react app.
+2. Here user can added a player in the list and remove it
+3. User can see the price of the player and the total coast.
+4. This is developed by React, HTML/CSS, Bootstrap, and React-bootstrap etc.
+
+
+### NOTE
+You can not visit the main page without Sign in or Login.
 
 
 ### `WE USE THOSE SITE TO DEVELOPE THIS SITE `
@@ -34,15 +48,6 @@ Site Link: [https://firebase.google.com/](https://firebase.google.com/)
 
 Site Link: [https://fontawesome.com/](https://fontawesome.com/)
 
-
-### FEATURES
-
-Here you select a ride . There are four types of ride Bike, Car, Bus and Train.
-
-You also select the best rider.
-
-### NOTE
-You can not visit the main page without Sign in or Login.
 
 
 
